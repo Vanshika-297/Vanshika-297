@@ -26,6 +26,7 @@ An ambitious **Computer Science Engineering student** and **Aspiring Full Stack 
 - Features a responsive UI, live tracking system, and payment gateway integration.
 
 🤖 **[React-based AI Tool](https://github.com/Vanshika-297)**
+[Live Demo](https://react-ai-tool-f6d41sllo-vanshikas-projects-c0938def.vercel.app)
 - **Tech Stack:** React.js, JavaScript, AI API Integration
 - Developed an intelligent AI tool using modern API integrations for smooth interactions.
 - Built with reusable React components, efficient state management, and a clean UI.
